@@ -1,3 +1,4 @@
+![logo](https://github.com/MuhammadArif-cell/MuhammadArif-cell/blob/main/Black%20and%20White%20Simple%20Minimalist%20Futuristic%20Gaming%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Arif</h1>
 <h3 align="center">A passionate developer and machine learner</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
